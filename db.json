@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "name": "John Carter",
+      "email": "john.carter@reddifmail.com",
+      "password": "6358795658",
+      "id": 1
+    },
+    {
+      "name": "Shaikh Muneer",
+      "email": "shaikh.muneer@gmail.com",
+      "password": "abcd@123",
+      "id": 2
+    },
+    {
+      "name": "Shaikh Muddasir",
+      "email": "shaikh.muddasir@gmial.com",
+      "password": "abc@123",
+      "id": 3
+    },
+    {
+      "name": "Shaikh Mohsin",
+      "email": "mr.skmohsin12@gmail.com",
+      "password": "aghs@321",
+      "id": 4
+    },
+    {
+      "name": "Mosh",
+      "email": "mosh@gmail.com",
+      "password": "m123",
+      "id": 5
+    },
+    {
+      "name": "Jack",
+      "email": "jack@gmail.com",
+      "password": "j123",
+      "id": 8
+    }
+  ],
+  "restaurents": [
+    {
+      "name": "KFC Hot",
+      "contact": 9877542110,
+      "address": "Bandra East",
+      "id": 1
+    },
+    {
+      "name": "PizzaHutt",
+      "contact": 24234466,
+      "address": "Panvel",
+      "id": 2
+    },
+    {
+      "name": "McDonalds",
+      "contact": 9898989,
+      "address": "Goa - Panji",
+      "id": 5
+    },
+    {
+      "name": "Hyderabadi Foods",
+      "contact": 59898956,
+      "address": "Mehdi Patnam, Hyd",
+      "id": 6
+    },
+    {
+      "name": "Biryani Point",
+      "contact": 9879898798,
+      "address": "biryani.point@gmail.com",
+      "id": 7
+    }
+  ]
+}
